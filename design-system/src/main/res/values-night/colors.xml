@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <color name="colorPrimary">@color/colorBlack</color>
+    <color name="colorSecondary">@color/colorBlack75</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlack75">#BF000000</color>
+</resources>

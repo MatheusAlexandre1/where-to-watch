@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <color name="colorPrimary">#2A172C</color>
+    <color name="colorSecondary">#2C0A0D</color>
+    <color name="colorOnPrimary">#E3D4C5</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlack75">#BF000000</color>
+
 </resources>
